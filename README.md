@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GA-Developer
 - 👀 I'm starting in the programming area.
-- 🌱 Estou aprendendo python.
-- 💞️ estou me esforçando muito...
+- 🌱 Estou estudando python.
+- 💞️ Sempre  continuando.
 - 📫 How to reach me ...
 
 <!---
