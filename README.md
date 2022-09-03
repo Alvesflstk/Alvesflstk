@@ -1,5 +1,4 @@
-<img src = "https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif
-" width = "325px" align = "right">
+<img src = "https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" width = "325px" align = "right">
 
 
 # ❤ Olá, bom ter você por aqui!
