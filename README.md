@@ -16,7 +16,7 @@
 </div>
 
 
-Sou Um Programador iniciante,Amo O Que Faço,🖖 Fã do Curso em Video 🦗 🦗.
+Sou Um Programador Iniciante, Amo O Que Faço, 🖖 Fã do Curso em Video 🦗 🦗.
 - Basic in HTML5 😎
 - Basic in CSS3 😷
 - Basic em jAVASCRIPT 👾
@@ -33,7 +33,8 @@ Sou Um Programador iniciante,Amo O Que Faço,🖖 Fã do Curso em Video 🦗 �
 ---
 
 
-<div align = "left">
+<img src="(https://user-images.githubusercontent.com/111323514/188252999-673bd784-42b7-446c-8f90-f34504860e73.png)">
+
 
 
 
