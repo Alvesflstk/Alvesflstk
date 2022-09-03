@@ -28,7 +28,7 @@ Sou desenvolvedor iniciante, amo programar,❤ 💙 Fã do Curso em Video
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8iBKCVPPQjOGuvXrKILxGYfe1XUaaGoguQ&usqp=CAU" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F585%2F822%2Fpng-transparent-python-scalablegraphicslogojavascriptcreativedimensionalcodeangletextrectangle.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dpython%2BLogo&tbnid=tA7k18LMd4LklM&vet=12ahUKEzs3cuff5AhXFNbkGHf6LAQwQMygJegUIARDTAQ..i&docid=Kmg3v5D9m-sXwM&w=920&h=920&q=python%20logo&hl=pt-BR&ved=2ahUKEwjWzs3cuff5AhXFNbkGHf6LAQwQMygJegUIARDTAQ"  title="Python" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F585%2F822%2Fpng-transparent-python-scalablegraphicslogojavascriptcreativedimensionalcodeangletextrectangle.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dpython%2BLogo&tbnid=tA7k18LMd4LklM&vet=12ahUKEzs3cuff5AhXFNbkGHf6LAQwQMygJegUIARDTAQ..i&docid=Kmg3v5D9m-sXwM&w=920&h=920&q=python%20logo&hl=pt-BR&ved=2ahUKEwjWzs3cuff5AhXFNbkGHf6LAQwQMygJegUIARDTAQ"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 
