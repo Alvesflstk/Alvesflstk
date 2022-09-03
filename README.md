@@ -19,7 +19,7 @@
 Sou desenvolvedor iniciante, amo programar,❤ 💙 Fã do Curso em Video
 - 👩‍💻 Focado em Full Stack
 
-<div align= "left">
+<div align= "inline">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  
