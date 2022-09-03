@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/111323514/188249609-c5b71d64-2ea0-4227-9bb0-8b1030245a56.gif
+<img src = "code.gif
 " width = "325px" align = "right">
 
 
