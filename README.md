@@ -16,7 +16,7 @@
 </div>
 
 
-Sou desenvolvedor iniciante, amo programar,🖖 Fã do Curso em Video 🦗 🦗.
+Sou Um Programador iniciante,Amo O Que Faço,🖖 Fã do Curso em Video 🦗 🦗.
 - Basic in HTML5 😎
 - Basic in CSS3 😷
 - Basic em jAVASCRIPT 👾
