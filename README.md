@@ -33,7 +33,7 @@ Sou Um Programador Iniciante, Amo O Que Faço, 🖖 Fã do Curso em Video 🦗 �
 ---
 
 
-<img src="https://user-images.githubusercontent.com/111323514/188252999-673bd784-42b7-446c-8f90-f34504860e73.png" width="90" height="90">
+<img src="https://user-images.githubusercontent.com/111323514/188252999-673bd784-42b7-446c-8f90-f34504860e73.png" width="200" height="200">
 
 
 
