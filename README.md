@@ -3,7 +3,7 @@
 
 # ❤ Olá, bom ter você por aqui!
 
-  <div align=center id="badges">
+  <div align="center" id="badges">
 
   <a href = "https://github.com/GA-Developer">
  
