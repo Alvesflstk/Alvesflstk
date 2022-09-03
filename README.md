@@ -16,11 +16,11 @@
 </div>
 
 
-Sou desenvolvedor iniciante, amo programar,❤ 💙 Fã do Curso em Video
+Sou desenvolvedor iniciante, amo programar,🖖 Fã do Curso em Video
 - Basic in HTML5 😎
 - Basic in CSS3 😷
 - Basic em jAVASCRIPT 👾
-- Aprendendo PYTHON 🥳
+- Learning PYTHON 🥳
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
