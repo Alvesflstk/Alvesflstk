@@ -26,7 +26,7 @@ Sou desenvolvedor iniciante, amo programar,❤ 💙 Fã do Curso em Video
  
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
-  <img src="" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8iBKCVPPQjOGuvXrKILxGYfe1XUaaGoguQ&usqp=CAU" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
 
