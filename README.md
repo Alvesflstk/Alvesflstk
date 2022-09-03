@@ -1,4 +1,5 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "![code](https://user-images.githubusercontent.com/111323514/188249609-c5b71d64-2ea0-4227-9bb0-8b1030245a56.gif)
+" width = "325px" align = "right">
 
 
 # ❤ Olá, bom ter você por aqui!
