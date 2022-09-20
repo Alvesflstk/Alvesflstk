@@ -19,7 +19,7 @@
 Sou Um Programador Iniciante, Amo O Que Faço, 🖖 Fã do Curso em Video 🦗 🦗.
 - Basic in HTML5 😎
 - Basic in CSS3 😷
-- Basic em jAVASCRIPT 👾
+- Basic em JAVASCRIPT 👾
 - Learning PYTHON 🥳
 
 <div>
