@@ -5,11 +5,11 @@
 
   <div align="center" id="badges">
 
-  <a href = "https://github.com/GA-Developer">
+  <a href = "https://github.com/GA-Developer"></a>
  
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href ="https://www.linkedin.com/in/gabriel-alves-ab8349244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2s%2BqImjnSMWTVk%2FDzj%2B9Dw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  
- </a>
+ 
   
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   
