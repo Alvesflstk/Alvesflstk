@@ -14,6 +14,9 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+          
   <img align="right" height="180em" width ="300px" src="https://user-images.githubusercontent.com/111323514/212176890-0077317d-11d2-46bc-b431-bdf249e6071d.gif">
   <br>
   
